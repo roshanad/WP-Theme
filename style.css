@@ -191,7 +191,7 @@ div.blog-post {
     width: 300px;
   }
   div.fourOfour-right {
-    float: right;
+    float: left;
     width: 50%;
   }
 
@@ -215,7 +215,7 @@ div.blog-post {
   }
 
   div.fourOfour-left {
-    float: left;
+    float: right;
     width: 50%
   }
 
